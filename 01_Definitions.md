@@ -40,11 +40,17 @@ So, how do we avoid such confusion?
 
 For the purpose of this book, we will separate the three phenomena outlined above, and use a different word for each of them:
 
-(1) VISUAL **SENSATION**: Unconscious registration and processing of light signals.
+## (1) VISUAL **SENSATION**:
 
-(2) VISUAL **PERCEPTION**: A conscious experience.
+Unconscious registration and processing of light signals.
 
-(3) VISUAL **COGNITION**: Operations related to storing, retrieving, or transforming information.
+## (2) VISUAL **PERCEPTION**: 
+
+A conscious experience.
+
+## (3) VISUAL **COGNITION**: 
+
+Operations related to storing, retrieving, or transforming information.
 
 Visual perception and visual cognition can occur without visual sensation (e.g., when we dream or hallucinate). 
 
