@@ -52,6 +52,6 @@ Some visual cognition can also occur without visual perception (e.g., in the phe
 
 The exact relationship between the three is non-trivial, however. GCognition can modify and even evoke experience, for example.
 
-    Can you experience the clothes on your skin? Now you do! In a few minutes this will go away again.
+    Can you experience the clothes on your skin? Now you do! 
 
 While not a distinctly vision-based example, you can probably see now how _thinking_ about something can cause your conscious _experience_ to change, and even for new experiences to occur.
