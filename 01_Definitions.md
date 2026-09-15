@@ -1,4 +1,4 @@
-# Definitions
+# 1. Definitions
 
 This may seem boring, but any rigorous examination, be it in science, philosophy, or mathematics, should start with clear statements about underlying assumptions. So, yes, a glossary of sorts is arguably one of the best starting points (rather than an addendum).
 
