@@ -44,7 +44,7 @@ For the purpose of this book, we will separate the three phenomena outlined abov
 
 (2) VISUAL **PERCEPTION**: A conscious experience.
 
-(3) VISUAL **COGNITION**: Operations related to storing, retrieving, transforming, or applying information.
+(3) VISUAL **COGNITION**: Operations related to storing, retrieving, or transforming information.
 
 Visual perception and visual cognition can occur without visual sensation (e.g., when we dream or hallucinate). 
 
