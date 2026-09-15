@@ -8,7 +8,7 @@ Do not worry, we will make it interesting, and perhaps even a bit fun.
 
 The main topic of this course is the "Visual System", so we obviously should define what we mean by "vision" first. This seems silly since we all have close acquaintance with vision. In fact, you are using your vision right now as you are reading this text. So what is there to define? 
 
-    Just say: "How we see things" and be done with it, no?
+    Can't we just say: "Vision is about how we see things"?
 
 **No.**
 
