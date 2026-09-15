@@ -40,15 +40,15 @@ So, how do we avoid such confusion?
 
 For the purpose of this book, we will separate the three phenomena outlined above, and use a different word for each of them:
 
-## (1) VISUAL **SENSATION**:
+### (1) VISUAL **SENSATION**:
 
 Unconscious registration and processing of light signals.
 
-## (2) VISUAL **PERCEPTION**: 
+### (2) VISUAL **PERCEPTION**: 
 
 A conscious experience.
 
-## (3) VISUAL **COGNITION**: 
+### (3) VISUAL **COGNITION**: 
 
 Operations related to storing, retrieving, or transforming information.
 
