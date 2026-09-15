@@ -4,7 +4,7 @@ This may seem boring, but any rigorous examination, be it in science, philosophy
 
 Do not worry, we will make it interesting, and perhaps even a bit fun.
 
-## Vision
+## VISION
 
 The main topic of this course is the "Visual System", so we obviously should define what we mean by "vision" first. This seems silly since we all have close acquaintance with vision. In fact, you are using your vision right now as you are reading this text. So what is there to define? 
 
