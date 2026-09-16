@@ -64,7 +64,7 @@ We move our eyes (several times a second), and yet perceive a stable visual imag
 
 Our eyes are round. The images (the light patterns) on the "back of our eyes" really land inside a hollow sphere and hence are _curved_ (radially distorted). The images on the back of cameras are flat. Partly as a consequence of that, our perception is uneven - we see great detail and sharpness at the center of our view and an almost blurry image at the edges of our visual field. Cameras can deliver sharp images throughout.
 
-### Dreaming is seeing, too
+### Cameras do not dream
 
 Cameras can only take picture of light patterns that actually occur. We can dream. That is, we can see things that do not match, or even remotely relate to, any light patterns that hit the back of our eyes at that moment.
 
