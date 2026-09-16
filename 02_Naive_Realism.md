@@ -2,7 +2,7 @@
 
 We all go through our daily lives making the same erroneous assumption.
 
-This faulty assumption is called **naïve realism**.
+This faulty assumption is called **nave realism**.
 
 Naïve realism is the idea that we see reality. That what we see _is_ reality. 
 
@@ -31,3 +31,35 @@ Perception on this view is an entirely new, subjective reality that both _adds t
 Some researchers agree on the notion that perception reflects the outcome of an "active" process, but hesitate to identify that process as inference, interpretation, or assumptions about incoming sensory data (such as a new pattern of light on your retina). Instead, they think this process might be more related to incoming sensory data _challenging_ or _conflicting_ with existing assumptions. On this view, it is the interplay between what is **predicted by internal assumptions** and **deviating evidence** that proves these predictions (and hence the underlying assumptions) wrong that marks perception.
 
 However, whether or not all deviations of perception from physical reality can be explained as "interpretations" or not, the key takeaway is that subjective experience, perception, is something else. Something different from the objective physical world around us.
+
+## Eye vs. Camera
+
+One way to appreciate why naïve realism seems a poor assumption (which might help, in case the above did not convince you), is that our eyes are not just cameras.
+
+### Commonalities
+
+At first sight, this can seem surprising since cameras take images in a way that seems directly inspired by the mechanics of our eyes:
+
+(1) Eyes and cameras use lenses to **focus light**.
+
+(2) Eyes and cameras vary an opening to **control how much light is collected**.
+
+(3) Eyes and cameras **detect light patterns**.
+
+Analog film cameras detect light patterns via a photo-chemical process. And so do our eyes.
+
+Digital cameras convert two-dimensional light patterns into two-dimensional patterns of electric signals. And so do our eyes. Even more, both digital cameras and our eyes then use a complex series of computations to further process these electric signals.
+
+Lastly, the light patterns that arise from collecting and focusing light tend to be upside down and flipped left-to-right for both eyes and (most) cameras. 
+
+Now, that is a lot of commonalities and similarities.
+
+But that is also where our ability for 1:1 comparison ends.
+
+### Differences
+
+A camera, even after a lot of processing, shows light patterns "as they are", such as three black pac men on a white background. But our eyes lead to a different outcome. We see a triangle on top of solid black disks instead.
+
+We move our eyes (several times a second), and yet perceive a stable visual image. (Video) cameras are held still or reduced to slow and minimal motion to avoid "jumpy" images.
+
+Our eyes are round. The images (the light patterns) on the "back of our eyes" really land inside a hollow sphere and hence are _curved_ (radially distorted). The images on the back of cameras are flat. Partly as a consequence of that, our perception is uneven - we see great detail and sharpness at the center of our view and an almost blurry image at the edges of our visual field. Cameras can deliver sharp images throughout.
