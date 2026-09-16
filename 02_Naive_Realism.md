@@ -63,3 +63,11 @@ A camera, even after a lot of processing, shows light patterns "as they are", su
 We move our eyes (several times a second), and yet perceive a stable visual image. (Video) cameras are held still or reduced to slow and minimal motion to avoid "jumpy" images.
 
 Our eyes are round. The images (the light patterns) on the "back of our eyes" really land inside a hollow sphere and hence are _curved_ (radially distorted). The images on the back of cameras are flat. Partly as a consequence of that, our perception is uneven - we see great detail and sharpness at the center of our view and an almost blurry image at the edges of our visual field. Cameras can deliver sharp images throughout.
+
+### Dreaming is seeing, too
+
+Cameras can only take picture of light patterns that actually occur. We can dream. That is, we can see things that do not match, or even remotely relate to, any light patterns that hit the back of our eyes at that moment.
+
+On the flip side, digital cameras can be combined with computers to recognize (obstacles), guide (a vehicle), predict (upcoming traffic) etc. This is (a part of) how self-driving cars operate, after all.
+
+Thus, to come back to where we started, our perception is _neither_ a "reflection" of reality (we can dream about orcs and unicorns and many other things that do not exist), nor is our perception needed to use visual information to guide behavior (a Waymo self-driving car can do so, arguably without experiencing anything at all).
