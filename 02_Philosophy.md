@@ -1,8 +1,10 @@
-# 2. Naïve Realism
+# 2. Philosophy
 
 We all go through our daily lives making the same erroneous assumption.
 
-This faulty assumption is called **nave realism**.
+This faulty assumption is called **naïve realism**.
+
+## Naïve Realism
 
 Naïve realism is the idea that we see reality. That what we see _is_ reality. 
 
