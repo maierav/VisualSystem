@@ -1,5 +1,11 @@
 # 0. Introduction
 
+% Overview
+:::{figure} ./images/main.png
+:label: fig:overview
+:width: 85%
+:::
+
 When we understand something, we say: "_I see_".
 
 When someone plans something out for the long-term, we say that they have a "_vision_".
