@@ -72,9 +72,21 @@ The more interesting aspect to all that is another implication:
 
 That is, once we change the temperature in the room you are in by one or more degrees Fahrenheit, you will be able to experience (notice) that change. The physical change was large enough for the temperature receptors in your skin to detect it. 
 
-We call the smallest physical change, or difference, that we can perceive a **just-noticeable difference**, or JND. A JND is the smallest stimulus difference that we can notice. 
+We call the smallest physical change, or difference, that we can perceive a **just-noticeable difference**, or JND. A JND is the smallest stimulus difference that we can notice, or perceive. Not "sense", as in "my body reacted in some way". But consciously experience. 
+
+A JND is the point where our subjective perception goes up or down in intensity.
 
 And this is key: What that means is that perception goes up or down in _discrete steps_ as we smoothly change a physical stimulus. At first, a small, smooth change in physical stimulus is _imperceptible_. But if we keep going and the change becomes large enough - and crosses a threshold of sensitivity of ours - we can perceive the change:
 
     Perception increments (jumps) as physical stimuli smoothly change
+
+And that means that we can - and indeed should - use numbers for perception! 
+
+After all, is perception changes - goes up and down - in _discrete_ steps, we can label each successive step as: 1, 2, 3, ..., and so on.
+
+That is, our perception increases and decreases in units of JNDs. The first time we perceive a slowly varying physical stimulus to change, we can label as "JND 1", or simply 1. If we keep varying the physical stimulus into the same direction, we next hit "JND 2", or 2, etc.
+
+Of course, **these numbers do not describe the full perceptual experience**. 
+
+All that these numerical **measurements** provide is a sense of **change in perceptual intensity**.
 
