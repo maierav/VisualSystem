@@ -8,7 +8,7 @@ Vision science is an **empirical science**.
 
 This means that any claim in this book that cannot be derived by logical reasoning, rests on observations, or measurement.
 
-[The _scientific method_ rests on an interplay of logical reasoning and observation.]
+[The _scientific method_ rests on an interplay of logical reasoning and observation: We observe and use reason to make sense of the data (i.e., we derive hypotheses and theories). Then, we test the outcome of that reasoning (i.e., our hypotheses and theories) by performing more observations. When observations conflict with what we have reasoned (i.e., our hypotheses and theories), we adjust our thinking (i.e., our hypotheses and theories) accordingly. Then, we test these adjusted hypotheses and theories by observing again. And so on.]
 
 Given what we [just discussed](02)  about the sensing of light-based information in cameras and subsequent processing of these signals to guide the behavior of self-driving cars, you might already expect that we will review precise experimental measurements about how our eyes sense light-based information and how the brain subsequently processes these signals to guide our behavior.
 
@@ -51,3 +51,5 @@ When you see two shades of red, how much sense would it make to put numbers on t
 It is worth dwelling on the feeling you might have right now for a moment. This will allow you to appreciate that the _solution_ to these questions is non-trivial. Because once you learn how humans overcame these obstacles, the solution will probably seem ridiculously simple to you. In other words, after you read the next section, you might think: "That is the solution? I could have thought of that!". However, it took humanity hundreds, if not thousands, of years to discover this solution, and there is a good reason for that - everything we talked about so far is valid. Putting numbers on perception (subjective conscious experience) is not at all trivial _in theory_. It just turns out to be rather trivial _in practice_.
 
 ## Psychophysics
+
+
