@@ -14,7 +14,7 @@ Given what we [just discussed](02)  about the sensing of light-based information
 
 ### Direct Observations
 
-All of these (objective) phenomena and processes are **_directly_ observable** after all. We can either just look for ourselves and immediately see what is happening (such as that an image is formed a certain distance behind a lense). Or we can build an apparatus or machine that performs such observations, that is measurements, for us (such as a device that measures the presence of light).
+All of these (objective) phenomena and processes are **_directly_ observable** after all. We can either just look for ourselves and immediately see what is happening (such as that an image is formed a certain distance behind a lens). Or we can build an apparatus or machine that performs such observations, that is measurements, for us (such as a device that measures the presence of light).
 
 But what about visual perception (conscious experience)? 
 
@@ -32,7 +32,7 @@ One thing to consider is that indirect observations are not really that uncommon
 
 More concretely, we cannot directly observe a magnetic field. We can directly observe the _effects_ of magnetic fields, such as small pieces of iron orienting themselves in lines along the field. But the field itself cannot be seen. We can measure magnetic fields, but we do so _indirectly_ by observing its effects.
 
-In fact, some of the most well known theories of science have been derived in this way. The "Big Bang" that is assumed to have started the universe cannot be directly observed (the light and other radiation from the Big Bang event is blocked by a so-called "event horizon" that is predicted by quantum physics). In the sme vein, humans never observed how species form(ed) during the process of Darwinian macroeveolution (i.e., natural selection) since that process simply takes too much time. However, we have plenty of _indirect_ evidence for the Big Bang event, such as the red shift of distant galaxies. And we have plenty of _indirect_ evidence for speciation by natural selection in the form of fossils and comparative genetics. So, indirect observations work perfectly well in science.
+In fact, some of the most well known theories of science have been derived in this way. The "Big Bang" that is assumed to have started the universe cannot be directly observed: for its first few hundred thousand years the universe was so hot and dense that it was opaque to light, so no light from the event itself can ever reach us. In the same vein, humans never observed how the vast majority of species formed during the process of Darwinian macroevolution (i.e., natural selection) since that process simply takes too much time. However, we have plenty of _indirect_ evidence for the Big Bang event, such as the red shift of distant galaxies and the faint microwave glow that fills the entire sky, the afterglow of the moment the universe first became transparent ([1](https://doi.org/10.1086/148307)). And we have plenty of _indirect_ evidence for speciation by natural selection in the form of fossils and comparative genetics. So, indirect observations work perfectly well in science.
 
 Yet, even if we trust indirect measures of perception, are these measures not inherently limited? How _precise_ can a behavioral report of a perception really be? 
 
@@ -52,25 +52,25 @@ It is worth dwelling on the feeling you might have right now for a moment. This 
 
 ## Psychophysics
 
-Two people, a graduate advisor and his Ph.D. student, stand out for solving the question of "can we reasonably put numbers on perception"?
+Two people at the University of Leipzig, the physiologist Ernst Heinrich Weber (1795–1878) and his younger colleague, the physicist and philosopher Gustav Theodor Fechner (1801–1887), stand out for solving the question of "can we reasonably put numbers on perception"? Weber made the measurements; Fechner turned them into a science he named _psychophysics_ ([2](https://doi.org/10.1037/11304-026)).
 
-The advisor, Ernst Weber (1795–1878) had an ingenious insight:
+Weber had an ingenious insight:
 
     Perception changes less than physical stimuli can change.
 
-In particular, Weber realized that our sensory _sensitivity_ is limited. That is, if we slowly change a physical stimulus, such as weight, heat, or brightness, our perception does not slowly change along. Instead, our perception tends to remain constant - unchanging - as long as the physical stimuli change every so little. 
+In particular, Weber realized that our sensory _sensitivity_ is limited. That is, if we slowly change a physical stimulus, such as weight, heat, or brightness, our perception does not slowly change along. Instead, our perception tends to remain constant - unchanging - as long as the physical stimuli change ever so little. 
 
     Perception does not change when a physical stimulus changes very little.
 
-This lack of awareness to tiny stimulus changes is not just an affect of attention or vigilance. It also occurs when we aim to detect these small changes to our best ability. The sensory receptors of our body simply are not sensitive enough to notice any minute change in our environment.
+This lack of awareness to tiny stimulus changes is not just an effect of attention or vigilance. It also occurs when we aim to detect these small changes to our best ability. The sensory receptors of our body simply are not sensitive enough to notice any minute change in our environment.
 
-Now, that is trivial, of course. We all know that if we change the temperature of the room we are in by just a tiny fraction of degrees, we will fail to experience that change.
+Now, that is trivial, of course. We all know that if we change the temperature of the room we are in by just a tiny fraction of a degree, we will fail to experience that change.
 
 The more interesting aspect to all that is another implication:
 
     Perception _does_ change when a physical stimulus changes to a larger degree.
 
-That is, once we change the temperature in the room you are in by one or more degrees Fahrenheit, you will be able to experience (notice) that change. The physical change was large enough for the temperature receptors in your skin to detect it. 
+That is, once we change the temperature in the room you are in by a degree or more, you will be able to experience (notice) that change. The physical change was large enough for the temperature receptors in your skin to detect it. 
 
 We call the smallest physical change, or difference, that we can perceive a **just-noticeable difference**, or JND. A JND is the smallest stimulus difference that we can notice, or perceive. Not "sense", as in "my body reacted in some way". But consciously experience. 
 
@@ -82,11 +82,12 @@ And this is key: What that means is that perception goes up or down in _discrete
 
 And that means that we can - and indeed should - use numbers for perception! 
 
-After all, is perception changes - goes up and down - in _discrete_ steps, we can label each successive step as: 1, 2, 3, ..., and so on.
+After all, if perception changes - goes up and down - in _discrete_ steps, we can label each successive step as: 1, 2, 3, ..., and so on.
 
 That is, our perception increases and decreases in units of JNDs. The first time we perceive a slowly varying physical stimulus to change, we can label as "JND 1", or simply 1. If we keep varying the physical stimulus into the same direction, we next hit "JND 2", or 2, etc.
+
+[In practice, the precise value at which a physical change elicits a JND will vary each time we repeat the measurement. As outlined later, this is solved easily by using a statistical definition of a JND instead. Note that this variability of JNDs _over time_ does not affect our consideration here where we perform the thought experiment only once. The general idea that perception "jumps" discretely remains - it just "jumps" at slightly different values if we test our perception again and again.]
 
 Of course, **these numbers do not describe the full perceptual experience**. 
 
 All that these numerical **measurements** provide is a sense of **change in perceptual intensity**.
-
