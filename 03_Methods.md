@@ -52,4 +52,29 @@ It is worth dwelling on the feeling you might have right now for a moment. This 
 
 ## Psychophysics
 
+Two people, a graduate advisor and his Ph.D. student, stand out for solving the question of "can we reasonably put numbers on perception"?
+
+The advisor, Ernst Weber (1795–1878) had an ingenious insight:
+
+    Perception changes less than physical stimuli can change.
+
+In particular, Weber realized that our sensory _sensitivity_ is limited. That is, if we slowly change a physical stimulus, such as weight, heat, or brightness, our perception does not slowly change along. Instead, our perception tends to remain constant - unchanging - as long as the physical stimuli change every so little. 
+
+    Perception does not change when a physical stimulus changes very little.
+
+This lack of awareness to tiny stimulus changes is not just an affect of attention or vigilance. It also occurs when we aim to detect these small changes to our best ability. The sensory receptors of our body simply are not sensitive enough to notice any minute change in our environment.
+
+Now, that is trivial, of course. We all know that if we change the temperature of the room we are in by just a tiny fraction of degrees, we will fail to experience that change.
+
+The more interesting aspect to all that is another implication:
+
+    Perception _does_ change when a physical stimulus changes to a larger degree.
+
+That is, once we change the temperature in the room you are in by one or more degrees Fahrenheit, you will be able to experience (notice) that change. The physical change was large enough for the temperature receptors in your skin to detect it. 
+
+We call the smallest physical change, or difference, that we can perceive a **just-noticeable difference**, or JND. A JND is the smallest stimulus difference that we can notice. 
+
+And this is key: What that means is that perception goes up or down in _discrete steps_ as we smoothly change a physical stimulus. At first, a small, smooth change in physical stimulus is _imperceptible_. But if we keep going and the change becomes large enough - and crosses a threshold of sensitivity of ours - we can perceive the change:
+
+    Perception increments (jumps) as physical stimuli smoothly change
 
