@@ -6,13 +6,13 @@ Do not worry, we will make it interesting, and perhaps even a bit fun.
 
 ## VISION:
 
-The main topic of this course is the "Visual System", so we obviously should define what we mean by "vision" first. This seems silly since we all have close acquaintance with vision. In fact, you are using your vision right now as you are reading this text. So what is there to define? 
+The main topic of this book is the "Visual System", so we obviously should define what we mean by "vision" first. This seems silly since we all have close acquaintance with vision. In fact, you are using your vision right now as you are reading this text. So what is there to define? 
 
     Can't we just say: "Vision is about how we see things"?
 
 **No.**
 
-This attitude is understandable, and indeed it prevails many of the textbooks on the topic. But it directly leads into a problem. And that problem leads directly into potential confusion. What is that problem?
+This attitude is understandable, and indeed it prevails in many of the textbooks on the topic. But it directly leads into a problem. And that problem leads directly into potential confusion. What is that problem?
 
 The problem is that we usually use the word "seeing" and hence "vision" to describe our **conscious experience**. 
 
@@ -28,11 +28,11 @@ and we can add at least one third phenomenon to that list:
 
 (3) Cognition based on visual sensory data.
 
-That is, recognizing "a dog" in a photograph is a cognitive process that associated an abstract concept - plus a linguistic term - ("dog") to a specific spatial arrangement of light waves, such as an individual photograph. There are many, very different looking, photographs of dog. And what we consciously experience when we look at those is much more than "dog". Hence, the cognitive process of recognizing and categorizing visual objects (such as when we conclude that an image is of a dog) is not the same as the conscious experience that goes with it.
+That is, recognizing "a dog" in a photograph is a cognitive process that associates an abstract concept - plus a linguistic term - ("dog") to a specific spatial arrangement of light waves, such as an individual photograph. There are many, very different looking, photographs of dogs. And what we consciously experience when we look at those is much more than "dog". Hence, the cognitive process of recognizing and categorizing visual objects (such as when we conclude that an image is of a dog) is not the same as the conscious experience that goes with it.
 
 There are, of course, many rival frameworks of separating these phenomena. And there are valid arguments that they are not as separate as argued above. But they can be differentiated and thus do not seem to be fully identical. 
 
-Using one and the same word "vision", or "seeing" for what seem to be very different things (i.e., sensing light patterns, deriving inferences from light patterns, and consciously experiencing something) thus runs risk of causing confusion. 
+Using one and the same word "vision", or "seeing" for what seem to be very different things (i.e., sensing light patterns, deriving inferences from light patterns, and consciously experiencing something) thus runs the risk of causing confusion. 
 
 Yes, a self-driving car senses its visual environment using cameras that share basic principles with human eyes. Both self-driving cars and humans then process these signals. Self-driving cars do so using computers and humans do so using their brains. And yes, many of the underlying operations are similar or even the same. And yes, self-driving cars can associate conceptual labels (such as "obstacle") to visual images in a similar, or even superior, fashion to humans. But few of us assume that these cars experience the visual world exactly like we do. Hence saying something like "The robo car did not see the obstructed traffic light" might express something we did not mean to say (literally).
 
@@ -54,9 +54,9 @@ Operations related to storing, retrieving, or transforming information.
 
 Visual perception and visual cognition can occur without visual sensation (e.g., when we dream or hallucinate). 
 
-Some visual cognition can also occur without visual perception (e.g., in the phenomenon of blindsight where some blind people can correctly identify visual objects without having any conscious experience). 
+Some visual cognition can also occur without visual perception. In the phenomenon of _blindsight_, people who have lost part of their visual field after damage to the primary visual cortex can nevertheless guess the location, movement, or shape of objects in that "blind" field far above chance, all the while insisting that they see nothing ([1](https://doi.org/10.1093/brain/97.1.709)). One such patient, blind in his entire visual field after two strokes, walked down a corridor cluttered with obstacles without bumping into a single one ([2](https://doi.org/10.1016/j.cub.2008.11.002)).
 
-The exact relationship between the three is non-trivial, however. GCognition can modify and even evoke experience, for example.
+The exact relationship between the three is non-trivial, however. Cognition can modify and even evoke experience, for example.
 
     Can you experience the clothes on your skin? Now you do! 
 
