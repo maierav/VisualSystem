@@ -1,4 +1,4 @@
-# 0. Introduction
+# Introduction
 
 % Overview
 :::{figure} ./images/main.png
