@@ -39,7 +39,7 @@ For example, certain flat (2D) images immediately look 3D, as if "popping out of
 :label: fig:Kanizsa
 :width: 45%
 
-Can you make out the outline of a 3D cube?
+Can you make out the 3D cube?
 :::
 
 This idea goes back to Hermann von Helmholtz in the nineteenth century and has its modern form in the view of perception as Bayesian inference [@10.1146/annurev.psych.55.090902.142005; @10.1016/j.tins.2004.10.007].
