@@ -1,7 +1,7 @@
 # Introduction
 
 % Overview
-:::{figure} ./images/Main.png
+:::{figure} ./images/Intro.png
 :label: fig:overview
 :width: 85%
 :::
