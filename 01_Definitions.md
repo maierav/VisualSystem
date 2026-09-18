@@ -59,7 +59,7 @@ Operations related to storing, retrieving, or transforming information.
 
 Visual perception and visual cognition can occur without visual sensation (e.g., when we dream or hallucinate). 
 
-Some visual cognition can also occur without visual perception. In the phenomenon of _blindsight_, people who have lost part of their visual field after damage to the primary visual cortex can nevertheless guess the location, movement, or shape of objects in that "blind" field far above chance, all the while insisting that they see nothing [@10.1093/brain/97.1.709]. One such patient, blind in his entire visual field after two strokes, walked down a corridor cluttered with obstacles without bumping into a single one [10.1016/j.cub.2008.11.002].
+Some visual cognition can also occur without visual perception. In the phenomenon of _blindsight_, people who have lost part of their visual field after damage to the primary visual cortex can nevertheless guess the location, movement, or shape of objects in that "blind" field far above chance, all the while insisting that they see nothing [@10.1093/brain/97.1.709]. One such patient, blind in his entire visual field after two strokes, walked down a corridor cluttered with obstacles without bumping into a single one [@10.1016/j.cub.2008.11.002].
 
 The exact relationship between the three is non-trivial, however. Cognition can modify and even evoke experience, for example.
 

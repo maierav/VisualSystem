@@ -2,7 +2,7 @@
 
 % Overview
 :::{figure} ./images/JND.png
-:label: fig:Intro
+:label: fig:JND
 :width: 70%
 :::
 
