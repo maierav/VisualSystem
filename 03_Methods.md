@@ -3,7 +3,7 @@
 % Overview
 :::{figure} ./images/JND.png
 :label: fig:Intro
-:width: 60%
+:width: 70%
 :::
 
 Vision science is an **empirical science**. 
