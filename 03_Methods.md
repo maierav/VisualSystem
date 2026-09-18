@@ -1,5 +1,11 @@
 # 3. Methods
 
+% Overview
+:::{figure} ./images/JND.png
+:label: fig:Intro
+:width: 50%
+:::
+
 Vision science is an **empirical science**. 
 
 [empirical means: _derived from observation_.]
