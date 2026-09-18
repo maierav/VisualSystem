@@ -10,11 +10,18 @@ Naïve realism is the idea that we see reality. That what we see _is_ reality.
 
 On second thought, most of us will admit that **what we see cannot be objective reality** since what we see can be very different from what we think objective, physical reality is. 
 
+:::{figure} ./images/NeonColorSpreading.png
+:label: fig:overview
+:width: 65%
+
+Anything but the black and blue _lines_ is completely white. Yet, you see a blue haze (due to a visual illusion called _neon color spreading_). Even once you know that the blue haze that you perceive is illusory, you still see it. That is, you cannot help but seeing something (a blue haze) does not physically exist. Your perception deviates from physical reality even when you know that it does.
+:::
+
 That is, we are all aware that **visual illusions show that what we see is subjective** and can be "wrong" in that it does not reflect objective physical reality.
 
 The way we tend to resolve this tension is usually that we forget about the possibility of illusions when we go through our daily lives. That is, we tend to think that perception _can but **rarely** does_ deviate from objective reality (i.e., illusions are an exception that do not affect everyday vision). Thus, we can go through our lives and apply the notion that "what we see is what is real" without concern. We just mentally add a small asterisk to that notion that says something like: "*sometimes - very rarely - we can be misled and see something that deviates from physical reality, but that is just an interesting novelty."
 
-The problem is, if our perception can deviate from reality _in principle_, as rarely as that might be, we should be very cautious to assume that perception and reality tend to be in agreement.
+The problem is, if our perception can deviate from reality _in principle_, as rarely as that might be, we should be very cautious to assume that perception and reality tend to be in agreement _in general_.
 
 In fact, deviations of visual perception from reality occur all the time, including right now as you read this. You cannot see how the image in the eye is constantly shifting and moving as your eyes dart around about three times a second [@10.1037/0033-2909.124.3.372]. In fact, you cannot even see the brief moments of darkness that occur some fifteen to twenty times a minute when you briefly close your eyes to blink [@10.1002/mds.870120629]; the visual system actively suppresses them [@10.1126/science.7355270]. You cannot see a hole in your visual image when you close one eye, despite your blindspot being just that [@10.1038/350699a0]. You cannot see the blood vessels that run in front of your photoreceptors despite them casting shadows. You see colors instead of varying wavelengths of light. Different wavelength combinations of light seem as the same color to you. And one and the same combination of light wavelengths can look like an entirely different color depending on the context of stimulation [@10.1126/science.8266102]. The list goes on and on and on...
 
