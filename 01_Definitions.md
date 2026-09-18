@@ -1,6 +1,6 @@
 # 1. Definitions
 
-:::{figure} ./images/3Aspects.png
+:::{figure} ./images/Aspects.png
 :label: fig:overview
 :width: 85%
 :::
