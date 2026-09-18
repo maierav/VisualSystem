@@ -15,6 +15,8 @@ project:
     - file: 02_Philosophy.md
     - file: 03_Methods.md
     - file: 04_Optics.md
+    - file: 05_Eye.md
+    - file: 06_Retina.md
 site:
   template: book-theme
   options:
