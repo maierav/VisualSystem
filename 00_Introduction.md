@@ -12,9 +12,9 @@ When someone plans something out for the long-term, we say that they have a "_vi
 
 Sometimes we even call people like that a "_visionary_".
 
-The English language features many such examples of using the phenomenon of vision (seeing) as a metaphor. And this seems hardly surprising given how much of our regular experience is dominated by the visual sense. Out of all our senses, vision also takes up the largest fraction of our brains. In the macaque monkey, the primate whose visual system we know best, more than half of the neocortex is devoted to vision ([](https://doi.org/10.1093/cercor/1.1.1)).
+The English language features many such examples of using the phenomenon of vision (seeing) as a metaphor. And this seems hardly surprising given how much of our regular experience is dominated by the visual sense. Out of all our senses, vision also takes up the largest fraction of our brains. In the macaque monkey, the primate whose visual system we know best, more than half of the neocortex is devoted to vision [https://doi.org/10.1093/cercor/1.1.1].
 
-Vision is not essential for survival since blind people live their lives just fine. But even blind people seem to make use of their visual system, such as using vision-dedicated brain areas to process touch or spatial relations more generally. In people who are blind from early in life, reading Braille activates the primary visual cortex, the part of the brain that in sighted people receives the signals from the eyes ([](https://doi.org/10.1038/380526a0)).
+Vision is not essential for survival since blind people live their lives just fine. But even blind people seem to make use of their visual system, such as using vision-dedicated brain areas to process touch or spatial relations more generally. In people who are blind from early in life, reading Braille activates the primary visual cortex, the part of the brain that in sighted people receives the signals from the eyes [https://doi.org/10.1038/380526a0].
 
 So, what is that, _seeing_? What do we know about vision?
 
