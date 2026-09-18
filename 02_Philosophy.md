@@ -78,6 +78,11 @@ But that is also where our ability for 1:1 comparison ends.
 
 ### Differences
 
+:::{figure} ./images/IC.png
+:label: fig:IC
+:width: 45%
+:::
+
 A camera, even after a lot of processing, shows light patterns "as they are", such as three black pac men on a white background. But our eyes lead to a different outcome. We see a triangle on top of solid black disks instead [@10.1038/scientificamerican0476-48].
 
 We move our eyes (several times a second), and yet perceive a stable visual image [@10.1016/j.visres.2008.03.021]. (Video) cameras are held still or reduced to slow and minimal motion to avoid "jumpy" images.
