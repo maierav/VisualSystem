@@ -16,6 +16,7 @@ project:
     - file: 03_Methods.md
 site:
   template: book-theme
-  # options:
+  options:
+      numbered_references: true
   #   favicon: favicon.ico
   #   logo: site_logo.png
