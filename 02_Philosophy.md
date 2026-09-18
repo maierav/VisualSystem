@@ -39,7 +39,7 @@ For example, certain flat (2D) images immediately look 3D, as if "popping out of
 :label: fig:Kanizsa
 :width: 65%
 
-Anything but the black and blue _lines_ is completely white. Yet, you see a blue haze (due to a visual illusion called _neon color spreading_). Even once you know that the blue haze that you perceive is illusory, you still see it. That is, you cannot help but seeing something (a blue haze) does not physically exist. Your perception deviates from physical reality even when you know that it does.
+An illusory 3D contour.
 :::
 
 This idea goes back to Hermann von Helmholtz in the nineteenth century and has its modern form in the view of perception as Bayesian inference [@10.1146/annurev.psych.55.090902.142005; @10.1016/j.tins.2004.10.007].
