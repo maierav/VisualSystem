@@ -2,8 +2,8 @@
 
 % Overview
 :::{figure} ./images/Intro.png
-:label: fig:overview
-:width: 85%
+:label: fig:Intro
+:width: 80%
 :::
 
 When we understand something, we say: "_I see_".

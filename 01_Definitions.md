@@ -1,7 +1,7 @@
 # 1. Definitions
 
 :::{figure} ./images/Aspects.png
-:label: fig:overview
+:label: fig:Aspects
 :width: 85%
 :::
 
