@@ -11,7 +11,7 @@ Naïve realism is the idea that we see reality. That what we see _is_ reality.
 On second thought, most of us will admit that **what we see cannot be objective reality** since what we see can be very different from what we think objective, physical reality is. 
 
 :::{figure} ./images/NeonColorSpreading.png
-:label: fig:overview
+:label: fig:NeonColorSpreading
 :width: 65%
 
 Anything but the black and blue _lines_ is completely white. Yet, you see a blue haze (due to a visual illusion called _neon color spreading_). Even once you know that the blue haze that you perceive is illusory, you still see it. That is, you cannot help but seeing something (a blue haze) does not physically exist. Your perception deviates from physical reality even when you know that it does.
@@ -31,7 +31,18 @@ Most researchers that have or do study perception thus go far beyond the assumpt
 
 A common notion is that **perception is an interpretation** of physical reality. 
 
-What this means is that perception seems to reflect the outcome of a process of _inference_. Where "inference" describes that the outcome are _assumptions_ (about objective reality). However, not just any arbitrary assumptions. But assumptions that are grounded in _evidence_ (light projections in the back of your eyes / sensory data / sensation). For example, certain flat (2D) images immediately look 3D, as if "popping out of the screen", because your perception reflects the assumption that what you are looking at is part of a three-dimensional world. This idea goes back to Hermann von Helmholtz in the nineteenth century and has its modern form in the view of perception as Bayesian inference [@10.1146/annurev.psych.55.090902.142005; @10.1016/j.tins.2004.10.007].
+What this means is that perception seems to reflect the outcome of a process of _inference_. Where "inference" describes that the outcome are _assumptions_ (about objective reality). However, not just any arbitrary assumptions. But assumptions that are grounded in _evidence_ (light projections in the back of your eyes / sensory data / sensation). 
+
+For example, certain flat (2D) images immediately look 3D, as if "popping out of the screen", because your perception reflects the assumption that what you are looking at is part of a three-dimensional world. 
+
+:::{figure} ./images/Kanizsa.png
+:label: fig:Kanizsa
+:width: 65%
+
+Anything but the black and blue _lines_ is completely white. Yet, you see a blue haze (due to a visual illusion called _neon color spreading_). Even once you know that the blue haze that you perceive is illusory, you still see it. That is, you cannot help but seeing something (a blue haze) does not physically exist. Your perception deviates from physical reality even when you know that it does.
+:::
+
+This idea goes back to Hermann von Helmholtz in the nineteenth century and has its modern form in the view of perception as Bayesian inference [@10.1146/annurev.psych.55.090902.142005; @10.1016/j.tins.2004.10.007].
 
 Perception then is neither objective physical reality, nor a subjective clone or copy of physical reality, but something else entirely. 
 
