@@ -1,5 +1,10 @@
 # 1. Definitions
 
+:::{figure} ./images/3Aspects.png
+:label: fig:overview
+:width: 85%
+:::
+
 This may seem boring, but any rigorous examination, be it in science, philosophy, or mathematics, should start with clear statements about underlying assumptions. So, yes, a glossary of sorts is arguably one of the best starting points since it will prevent us from running into misunderstandings.
 
 Do not worry, we will make it interesting, and perhaps even a bit fun.
