@@ -37,7 +37,7 @@ For example, certain flat (2D) images immediately look 3D, as if "popping out of
 
 :::{figure} ./images/Kanizsa.png
 :label: fig:Kanizsa
-:width: 65%
+:width: 45%
 
 An illusory 3D contour.
 :::
