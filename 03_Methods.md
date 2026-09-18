@@ -32,7 +32,7 @@ One thing to consider is that indirect observations are not really that uncommon
 
 More concretely, we cannot directly observe a magnetic field. We can directly observe the _effects_ of magnetic fields, such as small pieces of iron orienting themselves in lines along the field. But the field itself cannot be seen. We can measure magnetic fields, but we do so _indirectly_ by observing its effects.
 
-In fact, some of the most well known theories of science have been derived in this way. The "Big Bang" that is assumed to have started the universe cannot be directly observed: for its first few hundred thousand years the universe was so hot and dense that it was opaque to light, so no light from the event itself can ever reach us. In the same vein, humans never observed how the vast majority of species formed during the process of Darwinian macroevolution (i.e., natural selection) since that process simply takes too much time. However, we have plenty of _indirect_ evidence for the Big Bang event, such as the red shift of distant galaxies and the faint microwave glow that fills the entire sky, the afterglow of the moment the universe first became transparent ([1](https://doi.org/10.1086/148307)). And we have plenty of _indirect_ evidence for speciation by natural selection in the form of fossils and comparative genetics. So, indirect observations work perfectly well in science.
+In fact, some of the most well known theories of science have been derived in this way. The "Big Bang" that is assumed to have started the universe cannot be directly observed: for its first few hundred thousand years the universe was so hot and dense that it was opaque to light, so no light from the event itself can ever reach us. In the same vein, humans never observed how the vast majority of species formed during the process of Darwinian macroevolution (i.e., natural selection) since that process simply takes too much time. However, we have plenty of _indirect_ evidence for the Big Bang event, such as the red shift of distant galaxies and the faint microwave glow that fills the entire sky, the afterglow of the moment the universe first became transparent [@10.1086/148307]. And we have plenty of _indirect_ evidence for speciation by natural selection in the form of fossils and comparative genetics. So, indirect observations work perfectly well in science.
 
 Yet, even if we trust indirect measures of perception, are these measures not inherently limited? How _precise_ can a behavioral report of a perception really be? 
 
@@ -52,7 +52,7 @@ It is worth dwelling on the feeling you might have right now for a moment. This 
 
 ## Psychophysics
 
-Two people at the University of Leipzig, the physiologist Ernst Heinrich Weber (1795–1878) and his younger colleague, the physicist and philosopher Gustav Theodor Fechner (1801–1887), stand out for solving the question of "can we reasonably put numbers on perception"? Weber made the measurements; Fechner turned them into a science he named _psychophysics_ ([2](https://doi.org/10.1037/11304-026)).
+Two people at the University of Leipzig, the physiologist Ernst Heinrich Weber (1795–1878) and his younger colleague, the physicist and philosopher Gustav Theodor Fechner (1801–1887), stand out for solving the question of "can we reasonably put numbers on perception"? Weber made the measurements; Fechner turned them into a science he named _psychophysics_ [@10.1037/11304-026].
 
 Weber had an ingenious insight:
 
