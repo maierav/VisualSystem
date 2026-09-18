@@ -3,5 +3,5 @@
 % Overview
 :::{figure} ./images/Optics.png
 :label: fig:Intro
-:width: 60%
+:width: 40%
 :::
